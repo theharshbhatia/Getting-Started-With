@@ -180,5 +180,3 @@ Getting Started With
 ### 23andMe
 * [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/23andme)
 
-## Books
-
