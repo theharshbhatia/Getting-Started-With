@@ -11,18 +11,24 @@ Getting Started With ( publish on 100 link completion)
 * [Software / Tools](#softwares-or-tools)
 * [Libraries or Frameworks](#libraries)
 * [Plugins](#plugins)
+* [APIs](#APIs)
 
 ## Programming Languages
 
-### C / C++
 ### HTML / HTML5
+* [COURSE on Web HTML and CSS (CodeAcademy)](http://www.codecademy.com/en/tracks/web)
+
 ### CSS
+
 ### PHP
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/php)
+
 ### .NET
 ### JAVA
 ### PERL
 ### R
 ### Ruby
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/ruby)
 
 ### Python ( py )
 * [VIDEO LINK BANK (Github)](https://github.com/s16h/py-must-watch)
@@ -63,6 +69,8 @@ Getting Started With ( publish on 100 link completion)
 * [Getting started with Facebook's REACTJS library (modernweb.com)](http://modernweb.com/2014/07/23/getting-started-reactjs/)
 
 ###JQUERY
+*[COURSE: Introduction to jquery (codeacademy)](http://www.codecademy.com/courses/web-beginner-en-bay3D/0/1?curriculum_id=50a3fad8c7a770b5fd0007a1)
+
 ###NODEJS
 ###BACKBONEJS
 ###KNOCKOUTJS
@@ -75,7 +83,7 @@ Getting Started With ( publish on 100 link completion)
 ###UNDERSCOREJS
 ###EMBERJS
 ###METEORJS
-* [BOOK: getting started with Meteor.js] (http://www.packtpub.com/web-development/getting-started-meteorjs-javascript-framework)
+* [BOOK: getting started with Meteor.js](http://www.packtpub.com/web-development/getting-started-meteorjs-javascript-framework)
 * [Github LINK BANK ](https://github.com/ericdouglas/Meteor-Learning)
 * [Introduction to Meteor.js (github gists) ](https://gist.github.com/shrop/8134391)
 * [Best Learning Sources (yauh.de)](http://yauh.de/best-learning-resources-for-meteorjs/)
@@ -102,5 +110,87 @@ Getting Started With ( publish on 100 link completion)
 * [Getting started with Selenium testing in Django(benlopatin.com)](http://benlopatin.com/2012/django-selenium-testing/)
 
 ## Plugins
-## Google Polymer
+### Google Polymer
 * [Google Polymer Introductory VIDEO (Shreerangpatwardhan.blogspot.in)](http://shreerangpatwardhan.blogspot.in/2014/07/material-ui-google-polymer-web.html)
+
+
+##APIs
+### Deezer 
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/deezer)
+
+### WePay
+* [COURSE Ruby API (CodeAcademy)](http://www.codecademy.com/en/tracks/wepay_ruby)
+* [COURSE Python API (CodeAcademy)](http://www.codecademy.com/en/tracks/wepay_python)
+
+### Youtube
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/youtube)
+
+### Box
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/box_api)
+
+### 23andMe
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/23andme)
+
+### SkyDrive
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/skydrive)
+
+### Ordr.in
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/ordrin)
+
+### SoundCloud
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/soundcloud)
+
+### FireBase
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/firebase)
+
+### Twilio
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/twilio)
+
+### Github
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/oauth)
+
+### NPR
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/npr)
+
+### Mandrill
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/mandrill)
+
+### Sunlight
+* [COURSE JS API (CodeAcademy)](http://www.codecademy.com/en/tracks/sunlight_javascript)
+* [COURSE Python API (CodeAcademy)](http://www.codecademy.com/en/tracks/sunlight_python)
+
+### Dwolla
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/dwolla)
+
+### Twitter
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/twitter)
+
+### easypost
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/easypost)
+
+### Gilt
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/gilt_groupe)
+
+### Mashape
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/mashape)
+
+### SendGrid
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/sendgrid)
+
+### NHTSA
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/nhtsa)
+
+### Bitly
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/bitly)
+
+### Apigee
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/apigee)
+
+### Parse
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/parse)
+
+### WebShell
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/webshell)
+
+### Evernote
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/evernote)
