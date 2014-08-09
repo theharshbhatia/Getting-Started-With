@@ -7,7 +7,7 @@ Getting Started With
 ##Table Of Content
 [Programming Languages](#programming-languages)  
 [Software / Tools](#softwares-or-tools)  
-[Libraries or Frameworks](#libraries)    
+[Libraries or Frameworks](#libraries-or-frameworks)  
 [APIs](#apis)  
 
 ## Programming Languages
@@ -96,10 +96,10 @@ Getting Started With
 ### SELENIUM
 * [Getting started with Selenium testing in Django(benlopatin.com)](http://benlopatin.com/2012/django-selenium-testing/)
 
-### Google Polymer
+### POLYMER
 * [Google Polymer Introductory VIDEO (Shreerangpatwardhan.blogspot.in)](http://shreerangpatwardhan.blogspot.in/2014/07/material-ui-google-polymer-web.html)
 
-##APIs
+## APIs
 ### Apigee
 * [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/apigee)
 
