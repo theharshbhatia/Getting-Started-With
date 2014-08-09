@@ -5,11 +5,10 @@ Getting Started With
 **So, here it is** a bunch of links to blog posts, articles, videos, etc for GETTING STARTED WITH all languages, framworks, modules, plugins, etc. This list is in its early stages. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content. If you have an idea for a better way to organize these links, please let me know. ( Please do not add any official documentation link )
 
 ##Table Of Content
-* [Programming Languages](#programming-languages)
-* [Software / Tools](#softwares-or-tools)
-* [Libraries or Frameworks](#libraries)
-* [Plugins](#plugins)
-* [APIs](#APIs)
+[Programming Languages](#programming-languages)  
+[Software / Tools](#softwares-or-tools)  
+[Libraries or Frameworks](#libraries)    
+[APIs](#apis)  
 
 ## Programming Languages
 
@@ -181,4 +180,5 @@ Getting Started With
 ### 23andMe
 * [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/23andme)
 
+## Books
 
