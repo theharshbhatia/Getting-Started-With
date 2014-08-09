@@ -1,10 +1,8 @@
-Getting Started With ( publish on 100 link completion)
+Getting Started With
 ==================
-"**Its Great to have a Beginner's Mind**"
+"**In the Beginner's mind there are many possibilities, in the expert's mind there are few-"Sunryu Suzuki"**"
 
-"**Beginning is the hardest part**"
-
-**So, here it is simplified for you . . .**A bunch of links to blog posts, articles, videos, etc for GETTING STARTED WITH all languages, framworks, modules, plugins, etc. This list is in its early stages. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content. If you have an idea for a better way to organize these links, please let me know. ( Please do not add any official documentation link )
+**So, here it is** a bunch of links to blog posts, articles, videos, etc for GETTING STARTED WITH all languages, framworks, modules, plugins, etc. This list is in its early stages. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content. If you have an idea for a better way to organize these links, please let me know. ( Please do not add any official documentation link )
 
 ##Table Of Content
 * [Programming Languages](#programming-languages)
@@ -15,27 +13,14 @@ Getting Started With ( publish on 100 link completion)
 
 ## Programming Languages
 
+### CSS
+* [COURSE Introduction to CSS (W3Schools)](http://www.w3schools.com/css/css_intro.asp)
+
 ### HTML / HTML5
 * [COURSE on Web HTML and CSS (CodeAcademy)](http://www.codecademy.com/en/tracks/web)
 
-### CSS
-
-### PHP
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/php)
-
-### .NET
-### JAVA
-### PERL
-### R
-### Ruby
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/ruby)
-
-### Python ( py )
-* [VIDEO LINK BANK (Github)](https://github.com/s16h/py-must-watch)
-* [BOOK: Head First Python](http://www.headfirstlabs.com/books/hfpython/)
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/python)
-
 ### JavaScript ( js )
+* [Github BOOK / presentation](http://gitbookio.github.io/javascript/basics/README.html)
 * [VIDEO LINK BANK  for Beginners(thenewboston.org)](http://thenewboston.org/list.php?cat=10)
 * [VIDEO LINK BANK complete js(Github) ](https://github.com/bolshchikov/js-must-watch)
 
@@ -44,12 +29,23 @@ Getting Started With ( publish on 100 link completion)
 * [CHEAT-SHEET Markdown (nestacms.com)](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
 * [Markdown Project (daringfireball.net)](http://daringfireball.net/projects/markdown/)
 
+### PHP
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/php)
+
+### Python ( py )
+* [VIDEO LINK BANK (Github)](https://github.com/s16h/py-must-watch)
+* [BOOK: Head First Python](http://www.headfirstlabs.com/books/hfpython/)
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/python)
+
+### Ruby
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/ruby)
+
 ## Softwares or Tools
 ### GITHUB
 * [Learn Github Branching (pcottle.github.io)](http://pcottle.github.io/learnGitBranching/)
 * [Tutorial on Complete github (vogella.com)](http://www.vogella.com/tutorials/Git/article.html)
 
-###Leanpub
+### Leanpub
 * [Getting started with Leanpub (leanpub.com)](https://leanpub.com/help/getting_started_sync_none)
 
 ### Sublime Text 2/3
@@ -57,66 +53,123 @@ Getting Started With ( publish on 100 link completion)
 * [Video series on Getting started with Sublime Text 2(scotch.io)](http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
 
 ## Libraries or Frameworks
-##JavaScript
-* [Github BOOK / presentation](http://gitbookio.github.io/javascript/basics/README.html)
 
 ### ANGULARJS
 * [Github LINK BANK](https://github.com/jmcunningham/AngularJS-Learning)
 * [BOOK: ng-book getting started with angularjs(ng-newsletter.com)](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
 * [Step by Step guide to angularJs(toptal.com)](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app#.)
 
-### REACTJS
-* [Getting started with Facebook's REACTJS library (modernweb.com)](http://modernweb.com/2014/07/23/getting-started-reactjs/)
+### BOWER
+ * [Getting started with Bower (culttt.com)](http://culttt.com/2013/11/25/getting-started-bower/)
+ * [Introduction to Bower (egghead.io)](https://egghead.io/lessons/bower-introduction-and-setup)
 
-###JQUERY
+### BROWSERIFY
+* [Getting started with browserify(sitepoint.com)](http://www.sitepoint.com/getting-started-browserify/)
+
+### FOUNDATION
+* [Foundation for beginners (webdesign.tutsplus.com)](http://webdesign.tutsplus.com/series/foundation-for-beginners--webdesign-12744)
+
+### GRUNT
+ * [Getting started with Grunt (blog.teamtreehouse.com)](http://blog.teamtreehouse.com/getting-started-with-grunt)
+ * [Getting started with Grunt and Bower(nitinh.com)](http://www.nitinh.com/2013/05/getting-started-with-grunt-bower/)
+
+### JQUERY
 *[COURSE: Introduction to jquery (codeacademy)](http://www.codecademy.com/courses/web-beginner-en-bay3D/0/1?curriculum_id=50a3fad8c7a770b5fd0007a1)
+*[COURSE: Introduction to Jquery (W3Schools)](http://www.w3schools.com/jquery/jquery_intro.asp)
 
-###NODEJS
-###BACKBONEJS
-###KNOCKOUTJS
-###MUSTACHE
-###BOOTSTRAP
-###MODERNIZR
-* [BOOK: Learning Modernizr by adam watson(packtpub.com)](http://www.packtpub.com/learning-modernizr/book)
-
-###JASMINE
-###UNDERSCOREJS
-###EMBERJS
 ###METEORJS
 * [BOOK: getting started with Meteor.js](http://www.packtpub.com/web-development/getting-started-meteorjs-javascript-framework)
 * [Github LINK BANK ](https://github.com/ericdouglas/Meteor-Learning)
 * [Introduction to Meteor.js (github gists) ](https://gist.github.com/shrop/8134391)
 * [Best Learning Sources (yauh.de)](http://yauh.de/best-learning-resources-for-meteorjs/)
 
-### FOUNDATION
-* [Foundation for beginners (webdesign.tutsplus.com)](http://webdesign.tutsplus.com/series/foundation-for-beginners--webdesign-12744)
+###MODERNIZR
+* [BOOK: Learning Modernizr by adam watson(packtpub.com)](http://www.packtpub.com/learning-modernizr/book)
 
-###GRUNT
- * [Getting started with Grunt (blog.teamtreehouse.com)](http://blog.teamtreehouse.com/getting-started-with-grunt)
- * [Getting started with Grunt and Bower(nitinh.com)](http://www.nitinh.com/2013/05/getting-started-with-grunt-bower/)
 
-### BOWER
- * [Getting started with Bower (culttt.com)](http://culttt.com/2013/11/25/getting-started-bower/)
- * [Introduction to Bower (egghead.io)](https://egghead.io/lessons/bower-introduction-and-setup)
+### REACTJS
+* [Getting started with Facebook's REACTJS library (modernweb.com)](http://modernweb.com/2014/07/23/getting-started-reactjs/)
 
-###BROWSERIFY
-* [Getting started with browserify(sitepoint.com)](http://www.sitepoint.com/getting-started-browserify/)
-
-###SASS
+### SASS
 * [Getting started with Sass (alistapart.com)](http://alistapart.com/article/getting-started-with-sass)
 * [Sass and Compass for absolute beginners (zingdesign.com)](http://www.zingdesign.com/the-sass-and-compass-tutorial-for-absolute-beginners/)
 
-###SELENIUM
+### SELENIUM
 * [Getting started with Selenium testing in Django(benlopatin.com)](http://benlopatin.com/2012/django-selenium-testing/)
 
-## Plugins
 ### Google Polymer
 * [Google Polymer Introductory VIDEO (Shreerangpatwardhan.blogspot.in)](http://shreerangpatwardhan.blogspot.in/2014/07/material-ui-google-polymer-web.html)
 
-
 ##APIs
+### Apigee
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/apigee)
+
+### Bitly
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/bitly)
+
+### Box
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/box_api)
+
 ### Deezer 
 * [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/deezer)
+
+### Dwolla
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/dwolla)
+
+### Easypost
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/easypost)
+
+### Evernote
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/evernote)
+
+### FireBase
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/firebase)
+
+### Gilt
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/gilt_groupe)
+
+### Github
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/oauth)
+
+### Mandrill
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/mandrill)
+
+### Mashape
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/mashape)
+
+### NHTSA
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/nhtsa)
+
+### NPR
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/npr)
+
+### Ordr.in
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/ordrin)
+
+### Parse
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/parse)
+
+### SendGrid
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/sendgrid)
+
+### SkyDrive
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/skydrive)
+
+### SoundCloud
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/soundcloud)
+
+### Sunlight
+* [COURSE JS API (CodeAcademy)](http://www.codecademy.com/en/tracks/sunlight_javascript)
+* [COURSE Python API (CodeAcademy)](http://www.codecademy.com/en/tracks/sunlight_python)
+
+### Twilio
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/twilio)
+
+### Twitter
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/twitter)
+
+### WebShell
+* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/webshell)
 
 ### WePay
 * [COURSE Ruby API (CodeAcademy)](http://www.codecademy.com/en/tracks/wepay_ruby)
@@ -125,72 +178,7 @@ Getting Started With ( publish on 100 link completion)
 ### Youtube
 * [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/youtube)
 
-### Box
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/box_api)
-
 ### 23andMe
 * [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/23andme)
 
-### SkyDrive
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/skydrive)
 
-### Ordr.in
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/ordrin)
-
-### SoundCloud
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/soundcloud)
-
-### FireBase
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/firebase)
-
-### Twilio
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/twilio)
-
-### Github
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/oauth)
-
-### NPR
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/npr)
-
-### Mandrill
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/mandrill)
-
-### Sunlight
-* [COURSE JS API (CodeAcademy)](http://www.codecademy.com/en/tracks/sunlight_javascript)
-* [COURSE Python API (CodeAcademy)](http://www.codecademy.com/en/tracks/sunlight_python)
-
-### Dwolla
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/dwolla)
-
-### Twitter
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/twitter)
-
-### easypost
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/easypost)
-
-### Gilt
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/gilt_groupe)
-
-### Mashape
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/mashape)
-
-### SendGrid
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/sendgrid)
-
-### NHTSA
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/nhtsa)
-
-### Bitly
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/bitly)
-
-### Apigee
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/apigee)
-
-### Parse
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/parse)
-
-### WebShell
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/webshell)
-
-### Evernote
-* [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/evernote)
