@@ -180,3 +180,5 @@ Getting Started With
 ### 23andMe
 * [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/23andme)
 
+### Chrome Extensions
+* [Chrome extensions for dummies(jefvlamings.com)] (http://www.jefvlamings.com/blog/chrome-extensions-for-dummies/)
