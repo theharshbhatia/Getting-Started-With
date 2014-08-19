@@ -1,7 +1,7 @@
 Getting Started With
 ==================
 "**In the Beginner's mind there are many possibilities, in the expert's mind there are few-"Sunryu Suzuki"**"
-
+For any project, Beginning is often the most difficult part,
 **So, here it is** a bunch of links to blog posts, articles, videos, etc for GETTING STARTED WITH all languages, framworks, modules, plugins, etc. This list is in its early stages. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content. If you have an idea for a better way to organize these links, please let me know. ( Please do not add any official documentation link )
 
 ##Table Of Content
