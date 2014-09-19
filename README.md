@@ -17,6 +17,10 @@ For any project, Beginning is often the most difficult part,
 
 ### HTML / HTML5
 * [COURSE on Web HTML and CSS (CodeAcademy)](http://www.codecademy.com/en/tracks/web)
+* [COURSE: Make your own 2048(udacity)](https://www.udacity.com/course/ud248)
+
+### JAVA
+* [COURSE: Introduction to JAVA programming(udacity)](https://www.udacity.com/course/cs046)
 
 ### JavaScript ( js )
 * [Github BOOK / presentation](http://gitbookio.github.io/javascript/basics/README.html)
@@ -35,6 +39,7 @@ For any project, Beginning is often the most difficult part,
 * [VIDEO LINK BANK (Github)](https://github.com/s16h/py-must-watch)
 * [BOOK: Head First Python](http://www.headfirstlabs.com/books/hfpython/)
 * [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/python)
+* [COURSE: (Udacity)](https://www.udacity.com/course/ud036)
 
 ### Ruby
 * [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/ruby)
@@ -68,9 +73,18 @@ For any project, Beginning is often the most difficult part,
 ### FOUNDATION
 * [Foundation for beginners (webdesign.tutsplus.com)](http://webdesign.tutsplus.com/series/foundation-for-beginners--webdesign-12744)
 
+### GULP
+* [Getting Started with Gulp (hmphry.com) ](http://hmphry.com/gulp/)
+
 ### GRUNT
  * [Getting started with Grunt (blog.teamtreehouse.com)](http://blog.teamtreehouse.com/getting-started-with-grunt)
  * [Getting started with Grunt and Bower(nitinh.com)](http://www.nitinh.com/2013/05/getting-started-with-grunt-bower/)
+
+### HADOOP
+* [COURSE: Introduction to Hadoop and MapReduce(udacity)](https://www.udacity.com/course/ud617)
+
+###JEKYLL
+* [Build A Blog With Jekyll And GitHub Pages(smashingmagazine.com)](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
 
 ### JQUERY
 *[COURSE: Introduction to jquery (codeacademy)](http://www.codecademy.com/courses/web-beginner-en-bay3D/0/1?curriculum_id=50a3fad8c7a770b5fd0007a1)
