@@ -99,12 +99,16 @@ For any project, Beginning is often the most difficult part,
 ###MODERNIZR
 * [BOOK: Learning Modernizr by adam watson(packtpub.com)](http://www.packtpub.com/learning-modernizr/book)
 
+### NODEJS
+* [ Introduction to Nodejs App development (nukomeet.com) ](http://nukomeet.com:8080/2014/04/NodeJS_Introduction/)
+
 ###EMBERJS
 * [Getting Into Ember.js(tutsplus.com)](http://code.tutsplus.com/tutorials/getting-into-ember-js--net-30709)
 * [SLIDES: Introduction to Ember.js(speakerdeck.com)](https://speakerdeck.com/lukemelia/introduction-to-ember-dot-js)
 
 ### REACTJS
 * [Getting started with Facebook's REACTJS library (modernweb.com)](http://modernweb.com/2014/07/23/getting-started-reactjs/)
+* [Getting started with React (tysoncadenhead)](http://www.tysoncadenhead.com/blog/getting-started-with-react)
 
 ### SASS
 * [Getting started with Sass (alistapart.com)](http://alistapart.com/article/getting-started-with-sass)
