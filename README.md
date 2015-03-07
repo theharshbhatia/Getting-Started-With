@@ -62,6 +62,7 @@ For any project, Beginning is often the most difficult part,
 * [Github LINK BANK](https://github.com/jmcunningham/AngularJS-Learning)
 * [BOOK: ng-book getting started with angularjs(ng-newsletter.com)](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
 * [Step by Step guide to angularJs(toptal.com)](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app#.)
+* [Think Angularjs - build gmail clone (thinkful.com)](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Thinking-Angular)
 
 ### BOWER
  * [Getting started with Bower (culttt.com)](http://culttt.com/2013/11/25/getting-started-bower/)
@@ -83,26 +84,31 @@ For any project, Beginning is often the most difficult part,
 ### HADOOP
 * [COURSE: Introduction to Hadoop and MapReduce(udacity)](https://www.udacity.com/course/ud617)
 
-###JEKYLL
+### JADE
+* [Jade Complete tutorial](http://www.learnjade.com/)
+* [Introduction to Jade (dotnet-rocks.com)](http://dotnet-rocks.com/2013/10/22/an-introduction-to-jade/)
+
+### JEKYLL
 * [Build A Blog With Jekyll And GitHub Pages(smashingmagazine.com)](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
 
 ### JQUERY
 *[COURSE: Introduction to jquery (codeacademy)](http://www.codecademy.com/courses/web-beginner-en-bay3D/0/1?curriculum_id=50a3fad8c7a770b5fd0007a1)
 *[COURSE: Introduction to Jquery (W3Schools)](http://www.w3schools.com/jquery/jquery_intro.asp)
 
-###METEORJS
+### METEORJS
 * [BOOK: getting started with Meteor.js](http://www.packtpub.com/web-development/getting-started-meteorjs-javascript-framework)
 * [Github LINK BANK ](https://github.com/ericdouglas/Meteor-Learning)
 * [Introduction to Meteor.js (github gists) ](https://gist.github.com/shrop/8134391)
 * [Best Learning Sources (yauh.de)](http://yauh.de/best-learning-resources-for-meteorjs/)
 
-###MODERNIZR
+### MODERNIZR
 * [BOOK: Learning Modernizr by adam watson(packtpub.com)](http://www.packtpub.com/learning-modernizr/book)
 
 ### NODEJS
 * [ Introduction to Nodejs App development (nukomeet.com) ](http://nukomeet.com:8080/2014/04/NodeJS_Introduction/)
+* [ Node.js: A Jumpstart to Devs (NewCircle Training)](https://www.youtube.com/playlist?list=PLndbWGuLoHeaqf-IS7Ni0d6pIxLfLUynV)
 
-###EMBERJS
+### EMBERJS
 * [Getting Into Ember.js(tutsplus.com)](http://code.tutsplus.com/tutorials/getting-into-ember-js--net-30709)
 * [SLIDES: Introduction to Ember.js(speakerdeck.com)](https://speakerdeck.com/lukemelia/introduction-to-ember-dot-js)
 
@@ -119,6 +125,9 @@ For any project, Beginning is often the most difficult part,
 
 ### POLYMER
 * [Google Polymer Introductory VIDEO (Shreerangpatwardhan.blogspot.in)](http://shreerangpatwardhan.blogspot.in/2014/07/material-ui-google-polymer-web.html)
+
+### YEOMANJS
+*[Getting Started with YEOMANJS (viralpatel.net)](http://viralpatel.net/blogs/getting-started-with-yeoman-js/)
 
 ## APIs
 ### Apigee
@@ -202,4 +211,4 @@ For any project, Beginning is often the most difficult part,
 * [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/23andme)
 
 ### Chrome Extensions
-* [Chrome extensions for dummies(jefvlamings.com)] (http://www.jefvlamings.com/blog/chrome-extensions-for-dummies/)
+* [Chrome extensions for dummies(jefvlamings.com)](http://www.jefvlamings.com/blog/chrome-extensions-for-dummies/)
