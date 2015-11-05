@@ -45,6 +45,9 @@ For any project, Beginning is often the most difficult part,
 * [COURSE (CodeAcademy)](http://www.codecademy.com/en/tracks/ruby)
 
 ## Softwares or Tools
+### Android
+* [Android App Devlopement(www.vogella.com)](http://www.vogella.com/tutorials/Android/article.html#android_os)
+
 ### GITHUB
 * [Learn Github Branching (pcottle.github.io)](http://pcottle.github.io/learnGitBranching/)
 * [Tutorial on Complete github (vogella.com)](http://www.vogella.com/tutorials/Git/article.html)
@@ -57,7 +60,8 @@ For any project, Beginning is often the most difficult part,
 * [Video series on Getting started with Sublime Text 2(scotch.io)](http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
 
 ## Libraries or Frameworks
-
+###SOCKET.IO
+* [Socket.io](http://socket.io/get-started/chat/)
 ### ANGULARJS
 * [Github LINK BANK](https://github.com/jmcunningham/AngularJS-Learning)
 * [BOOK: ng-book getting started with angularjs(ng-newsletter.com)](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
@@ -127,7 +131,14 @@ For any project, Beginning is often the most difficult part,
 * [Google Polymer Introductory VIDEO (Shreerangpatwardhan.blogspot.in)](http://shreerangpatwardhan.blogspot.in/2014/07/material-ui-google-polymer-web.html)
 
 ### YEOMANJS
-*[Getting Started with YEOMANJS (viralpatel.net)](http://viralpatel.net/blogs/getting-started-with-yeoman-js/)
+* [Getting Started with YEOMANJS (viralpatel.net)](http://viralpatel.net/blogs/getting-started-with-yeoman-js/)
+
+### HEXO
+* [Hexo Deploying on GIthub Pages ](http://rabbi.xyz/Getting-Started-With-Hexo-Deploying-On-Github-Pages/#comment-1893744587)
+
+### Jekyll
+* [Getting started on Jekyll](http://developer.telerik.com/featured/getting-started-with-jekyll/)
+
 
 ## APIs
 ### Apigee
